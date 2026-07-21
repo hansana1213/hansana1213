@@ -230,7 +230,7 @@ https://github.com/hansana1213
 
 💼 **LinkedIn**
 
-(Add your LinkedIn URL here)
+www.linkedin.com/in/darshika-madhuhansani-266397349
 
 ---
 
