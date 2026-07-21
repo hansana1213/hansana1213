@@ -36,22 +36,6 @@ I'm passionate about Blue Team operations, Network Security, Threat Detection, I
 
 ---
 
-# 🚀 Currently Working On
-
-### 🛡 Mini SOC Framework for SMBs
-
-Building a proactive Security Operations Center using
-
-- Wazuh
-- Security Onion
-- Suricata IDS
-- Cowrie Honeypot
-- TheHive
-- Cortex
-- Telegram SOAR Bot
-
----
-
 # 🌱 Currently Learning
 
 - Cisco CCNA
