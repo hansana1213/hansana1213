@@ -111,32 +111,6 @@ I'm passionate about Blue Team operations, Network Security, Threat Detection, I
 
 ---
 
-# 📂 Featured Projects
-
-## 🔐 Image Encryption Web Application
-
-Secure image encryption using cryptographic techniques.
-
----
-
-## 📱 Sri Lanka Travel App
-
-Flutter + Supabase mobile application.
-
----
-
-## 🔑 Password Strength Analyzer
-
-Python Flask application that evaluates password security.
-
----
-
-## 🧠 GIF Malware Detection Tool
-
-Detects malicious GIF files using machine learning techniques.
-
----
-
 # 🏆 Certifications
 
 - Cisco Network Defense
@@ -145,18 +119,6 @@ Detects malicious GIF files using machine learning techniques.
 - ISO/IEC 27001 Lead Auditor
 - ISO/IEC 42001 AI Management System
 - Deloitte Cyber Job Simulation
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hansana1213&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansana1213&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
