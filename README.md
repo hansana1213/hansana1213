@@ -132,16 +132,6 @@ I'm passionate about Blue Team operations, Network Security, Threat Detection, I
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hansana1213&theme=tokyonight&margin-w=10"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
