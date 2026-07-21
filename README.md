@@ -113,18 +113,6 @@ I'm passionate about Blue Team operations, Network Security, Threat Detection, I
 
 # 📂 Featured Projects
 
-## 🛡 Mini SOC Framework
-
-Proactive SOC integrating
-
-- Wazuh
-- Security Onion
-- Cowrie Honeypot
-- TheHive
-- Cortex
-
----
-
 ## 🔐 Image Encryption Web Application
 
 Secure image encryption using cryptographic techniques.
